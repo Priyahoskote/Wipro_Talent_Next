@@ -49,12 +49,6 @@ public class mergearray {
 			if(merged[i]!=merged[i-1]) {
 			System.out.println(merged[i]+" ");
 			}
-			
 		}
-		
-		
-		
 	}
-		
-
 }
